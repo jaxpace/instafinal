@@ -1,0 +1,66 @@
+
+.margin{
+    display: inline;
+    float: left;
+    text-align: left;
+    margin-top: 5px;
+    margin-left: 14px;
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.profile {
+    border-radius: 100%;
+    margin-top: -5px;
+    margin-right: 10px;
+    height: 31px;
+  }
+.profname {
+    justify-content: center;
+    margin-top: 2px;
+}
+.postphoto {
+    width: 100%;
+    z-index: 0;
+    object-fit: cover;
+  }
+.bottomsect {
+    margin-left: 20px;
+    margin-top :8px;
+    margin-bottom: -9px;
+    justify-content: space-between;
+}
+.comlogo{
+    display:inline;
+    margin-left: 10px;
+    justify-content: center;
+    
+}
+.engagement{
+    float: left;
+    text-align: left;
+    margin-top: 3px;
+    margin-left: 15px;
+    margin-bottom: 18px;
+    display: flex;
+    flex-direction: column;
+}
+.username{
+    margin-top: -5px;
+    margin-right: 10px;
+}
+.caption{
+    display: inline;
+    margin-left: 5px;
+
+}
+.comments{
+    display: inline;
+
+}
+.written{
+    display: inline;
+    margin-left: 5px;
+    margin-top: -10px;
+}
